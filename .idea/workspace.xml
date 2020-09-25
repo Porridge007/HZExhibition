@@ -19,13 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de6b762-b455-4c5c-bbfb-052827a700ed" name="Default Changelist" comment="" />
+    <list default="true" id="9de6b762-b455-4c5c-bbfb-052827a700ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/app.77aa44f7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.6a1486ef.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.328b6b79.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/about.44da9122.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/about.6d165665.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.0305bd51.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -40,12 +52,16 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../expo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gopath\bin\HZExhibition\views" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\gopath\bin\HZExhibition\static" />
+      <recent name="D:\gopath\bin\HZExhibition" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gopath\bin\HZExhibition\static" />
+      <recent name="D:\gopath\bin\HZExhibition\views" />
     </key>
   </component>
   <component name="RemoteSynchronizer">
@@ -123,10 +139,10 @@
     </state>
     <state width="1876" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600911860153" />
     <state width="1876" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600754164956" />
-    <state x="662" y="272" width="596" height="536" key="find.popup" timestamp="1600911658373">
+    <state x="662" y="272" width="596" height="536" key="find.popup" timestamp="1601026481897">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="662" y="272" width="596" height="536" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600911658373" />
+    <state x="662" y="272" width="596" height="536" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601026481897" />
     <state x="2582" y="272" width="596" height="536" key="find.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600753309653" />
   </component>
 </project>
